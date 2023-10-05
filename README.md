@@ -1,1 +1,1 @@
-# GeeksForGeeks
+LeetCode Solutions
